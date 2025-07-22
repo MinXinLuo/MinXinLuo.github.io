@@ -20,10 +20,8 @@ footer:
   contact:
     - type: email
       name: Email
-      value: mxluo@umich.edu
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
+      value: mxluo@umich.edu; xji6aup3vup@gmail.com
+
   follow:
     - type: twitter
       name: Twitter
@@ -38,12 +36,6 @@ footer:
     - type: github
       name: GitHub
       link: http://github.com/YourGitHubUsername
-    - type: dribbble
-      name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
-    - type: rss
-      name: RSS
-      link: /feed.xml
 
 # Build settings
 markdown: kramdown
