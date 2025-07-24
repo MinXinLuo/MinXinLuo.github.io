@@ -5,11 +5,7 @@ title: "Min-Xin Luo"
 description: "personal website"
 baseurl: ""
 url: "https://MinXinLuo.github.io"
-<div align="center">
-  <img src="/assets/img/IMG_7983.JPG" alt="profile" width="50%" >
-</div>
-
-google_analytics: "UA-121636368-3"
+og_image: "/assets/img/IMG_7983.JPG" 
 
 header:
   pages:
