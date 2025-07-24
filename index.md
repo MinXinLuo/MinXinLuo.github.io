@@ -6,9 +6,11 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! 
+  Hi, I’m **Min-Xin Luo**, a postdoctoral researcher in evolutionary biology at the University of Michigan.  
+My research focuses on population genetics, phylogeography, and trait evolution.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  
 </p>
