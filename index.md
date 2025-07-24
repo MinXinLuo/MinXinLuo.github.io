@@ -1,9 +1,13 @@
 ---
 layout: home
 profile_picture:
-og_image: <img src="/assets/img/IMG_7983.JPG" alt="profile" width="50%" >
+og_image: "/assets/img/IMG_7983.JPG"
 alt: website picture
 ---
+
+<div align="center">
+  <img src="/assets/img/IMG_7983.JPG" alt="Min-Xin Luo" width="50%" />
+</div>
 
 <p>
   Welcome! 
