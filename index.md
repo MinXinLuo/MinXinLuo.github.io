@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-og_image: "/assets/img/IMG_7983.JPG"
+og_image: <img src="/assets/img/IMG_7983.JPG" alt="profile" width="50%" >
 alt: website picture
 ---
 
