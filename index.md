@@ -1,7 +1,10 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/IMG_7983.JPG
+  <div align="center">
+  <img src="/assets/img/IMG_7983.JPG" alt="profile" width="180" style="border-radius: 50%;" />
+</div>
+
   alt: website picture
 ---
 
