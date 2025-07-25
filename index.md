@@ -6,7 +6,7 @@ alt: website picture
 ---
 
 <div align="center">
-  <img src="/assets/img/IMG_7983.JPG" alt="Min-Xin Luo" width="50%" />
+  <img src="/assets/img/IMG_7983.JPG" alt="Min-Xin Luo" width="30%" />
 </div>
 
 <p>
