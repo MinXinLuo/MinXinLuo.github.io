@@ -18,8 +18,11 @@ footer:
   show_powered_by: true
   contact:
     - type: email
-      name: Email
-      value: mxluo@umich.edu; xji6aup3vup@gmail.com
+      name: UMich Email
+      value: mxluo@umich.edu
+    - type: email
+      name: Gmail
+      value: xji6aup3vup@gmail.com
 
   follow:
     - type: twitter
