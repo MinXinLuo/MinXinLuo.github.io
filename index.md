@@ -1,6 +1,6 @@
 ---
 layout: home
-profile_picture:
+profile_picture: "/assets/img/title.png"
 og_image: "/assets/img/IMG_7983.JPG"
 alt: website picture
 ---
